@@ -1,4 +1,9 @@
 ---
+Description: 'AWS CloudFormation Sample Template Bitrix24_Single_Instance. This template
+  installs Bitrix24 with a local MySQL database for storage. It demonstrates using
+  the AWS CloudFormation bootstrap scripts to deploy Bitrix24 **WARNING** 
+  This template creates an Amazon EC2 instance. 
+  You will be billed for the AWS resources used if you create a stack from this template.'
 
 Parameters:
   SecurityGroupDescription:
