@@ -20,7 +20,7 @@ Resources:
       InstanceType: t2.micro
       SecurityGroups: 
       - !Ref B24SecurityGroup
-      KeyName: test
+      KeyName: xps13
       Tags:
       - Key: Name
         Value: Bitrix24
