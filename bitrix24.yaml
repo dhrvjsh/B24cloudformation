@@ -7,6 +7,7 @@ Description: 'AWS CloudFormation Sample Template Bitrix24_Single_Instance. This 
 
 Parameters:
   SecurityGroupDescription:
+    Default: Security Group for B24
     Description: Security Group Description
     Type: String
 
