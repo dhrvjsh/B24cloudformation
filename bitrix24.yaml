@@ -21,9 +21,9 @@ Resources:
       SecurityGroups: 
       - !Ref B24SecurityGroup
       KeyName: test
-    Tags:
-    - Key: Name
-      Value: Bitrix24
+      Tags:
+      - Key: Name
+        Value: Bitrix24
         
 
   # an elastic IP for our instance
